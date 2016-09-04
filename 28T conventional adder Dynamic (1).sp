@@ -1,5 +1,4 @@
 * HSPICE Deck to find leakage currents in a Conventional Full Adder
-* Pradeep Nair
 * Model source: Arizona State University. Available at http://www.eas.asu.edu/~ptm
 .include '32nm.txt'
 .tran 1p 60ns
